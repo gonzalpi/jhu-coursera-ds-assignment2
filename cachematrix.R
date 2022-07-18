@@ -1,7 +1,8 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## Store a matrix in a list object that contains its inverse too
+## This function is virtually the same as makeVector in README.md
 
 makeCacheMatrix <- function(x = matrix()) {
             inv <- NULL
